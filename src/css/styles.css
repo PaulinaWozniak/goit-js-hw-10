@@ -10,6 +10,8 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+
+  background-color: rgba(4, 165, 26, 0.747);
 }
 
 #search-box {
@@ -17,4 +19,21 @@ body {
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+  border-color: rgb(7, 68, 7);
+  border-radius: 5px;
+}
+
+ul {
+  font-size: 30px;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+  font-size: 24px;
+}
+
+img {
+  display: inline-block;
 }
